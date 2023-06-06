@@ -1,0 +1,153 @@
+.first-heading {
+    font-family: Open Sans;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@1,100&display=swap');
+
+.first-backgeround {
+    background: #BABABA;
+}
+
+.web-one {
+    font-family: Open Sans;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.text-bold {
+    font-weight: 600;
+
+
+}
+
+.heading-two {
+    font-family: inter;
+
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+
+}
+
+.span {
+    font-size: 25px;
+    font-weight: 700px !important;
+}
+
+.text-contact {
+
+  
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 41px;
+
+
+}
+
+.first-hr {
+    height: 10.124614715576172px;
+    width: 400.8590698242188px;
+    left: 124.3984375px;
+    top: 1084.0525512695312px;
+    border-radius: 0px;
+    font-weight: 600;
+
+
+
+
+}
+
+.progress-bar {
+    width: 80% !important;
+    background: #E50019 !important;
+
+
+}
+
+.progress-bar3 {
+    width: 90% !important;
+    background: #E50019 !important;
+}
+
+.progress-bar4 {
+    width: 80% !important;
+    background: #E50019 !important;
+}
+
+.Analytical-two {
+    text-align: left;
+}
+
+.creative-three {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.british-scholar {
+
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.organization {
+    font-family: Inter;
+    font-size: 16px;
+
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.organization2 {
+    font-family: Inter;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.list-first {
+    height: 47.734649658203125px;
+    width: 226px;
+
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
